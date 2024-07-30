@@ -1,1 +1,1 @@
-# random_password_p3
+# password-generator
